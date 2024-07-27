@@ -12,6 +12,7 @@ public class tiposVariables {
 		// Se muestran los resultados de la suma de las 2 varibales
 		
 		System.out.println("La suma de " + num1 + " y " + num2 + " es: " + suma);
+		System.out.println();
 		
 		//Ejercicio 2 
 		char letra1 = 'H';
@@ -25,6 +26,7 @@ public class tiposVariables {
         // Mostrar el resultado
         
         System.out.println("La palabra formada es: " + palabra);
+        System.out.println();
         
         //Ejercicio 3
         float radio = 5.5f; 
