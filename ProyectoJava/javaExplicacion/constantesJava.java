@@ -57,8 +57,6 @@ public class constantesJava {
         System.out.println("Monto del impuesto: $" + montoImpuesto);
         System.out.println("Pago final después del impuesto: $" + pagoFinal);
         
-
-
  
 	}
 }
