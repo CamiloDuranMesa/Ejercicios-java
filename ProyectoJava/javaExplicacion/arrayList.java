@@ -14,6 +14,7 @@ public class arrayList {
         
      // Ejercicio 1
      // Ordenar los elementos en orden alfabético y luego imprimirlos
+        //
         Collections.sort(listaCosas);
         System.out.println(listaCosas);
         System.out.println();
